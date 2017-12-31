@@ -2,8 +2,6 @@
 
 代码是根据https://github.com/wangshub/wechat_jump_game 改写的php版本。感谢大神
 
-[@wangshub]: https://github.com/wangshub
-
 
 
 ## 工具介绍
