@@ -1,5 +1,11 @@
 # 教你用PHP来玩微信跳一跳
 
+代码是根据https://github.com/wangshub/wechat_jump_game 改写的php版本。感谢大神
+
+[@wangshub]: https://github.com/wangshub
+
+
+
 ## 工具介绍
 
 - PHP 5.3+
@@ -31,5 +37,4 @@
 - 电脑与手机USB线连接，确保执行`adb devices`可以找到设备id
 - 界面转至微信跳一跳游戏，点击开始游戏
 - 运行`php wechat_jump.php`，如果手机界面显示USB授权，请点击确认
-
 
